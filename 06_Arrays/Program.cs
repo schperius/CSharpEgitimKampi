@@ -218,7 +218,7 @@ namespace _06_Arrays
             //        Console.WriteLine(numbers[i]);
             //    }
             //}
-
+            
 
             #endregion
 
